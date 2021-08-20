@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello mic check");
             //comment
+            //comment 2
         }
     }
 }
